@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xA72714C28418cA2dC84b1b2a8623b0f04e962489",
+  "SCAN_LINK": "https://bscscan.com/address/0xa72714c28418ca2dc84b1b2a8623b0f04e962489",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "AlienScavengers",
+  "SYMBOL": "AS",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 250000000000000000,
+  "DISPLAY_COST": 0.25,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
